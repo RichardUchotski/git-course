@@ -1,0 +1,10 @@
+[33me3d8094[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m feat(js): added random data to data.js
+[33m9d52fb5[m fix(js): rename data to users
+[33m228b7cd[m fix(js): remove semi colon
+[33m97bc49b[m feat(js-api): export array of users
+[33m41b7590[m Updating gitignore to include .env file
+[33m18cda6a[m remove .env
+[33mf769610[m Added .gitignore and .env file and go folder
+[33m5921665[m Delete config.js
+[33m0006267[m Hello world in py
+[33m86b1253[m Initial Commit, adding 3 empty js files
